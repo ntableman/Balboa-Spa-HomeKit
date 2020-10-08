@@ -1,4 +1,7 @@
 # Balboa Spa HomeKit
+
+GO HERE: https://github.com/vincedarley/homebridge-plugin-bwaspa as this work is more complete and took it to the next level!
+
  Using MQTT, Homebridge & Node-Red to expose Balboa Spa controller in Homekit
  
  Let's be honest here...I have a day job...this is me hacking over weekends and nights to figure this out. I used a logic analyzer to snoop on the bus (it is serial BTW) and then found some people online who had hacked this before. I thank them and will collect up licks to their work and to all the things below when I have a tad more time.
